@@ -27,6 +27,7 @@ int system(const char *command);
 ///////////////////////////////////////////////////FUNCTIONS FOR FILES/////////////////////////////////////////////////////////
 
 //FUNCTION TO DISPLAY LIST OF FILES AND STORE INTO ARRAY
+//FUNCTION TO DISPLAY LIST OF FILES AND STORE INTO ARRAY
  void explore (char* dir_name, string *songArray, int size)
 {
 	DIR *dir;
